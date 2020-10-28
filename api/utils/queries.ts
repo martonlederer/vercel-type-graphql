@@ -3,6 +3,7 @@ import { ObjectType, Field } from 'type-graphql'
 // the school type
 @ObjectType()
 export class SchoolType {
+  // create a field inside the type
   @Field()
   name: string 
 
