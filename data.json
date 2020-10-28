@@ -1,0 +1,30 @@
+{
+  "school_info": {
+    "name": "Hogwarts",
+    "location": "England"
+  },
+  "students": [
+    {
+      "name": "John Doe",
+      "age": 17,
+      "class": "11A"
+    },
+    {
+      "name": "Chris Bale",
+      "age": 15,
+      "class": "9B"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Albus Dumbledore",
+      "subject": "IT",
+      "trial": false
+    }, 
+    {
+      "name": "Daniel Hider",
+      "subject": "Maths",
+      "trial": true
+    }
+  ]
+}
